@@ -93,13 +93,5 @@ int main() {
 		printf("%hhu (dec), %hhx (hexa)\t", *(zcp + i), *(zcp + i));
 	}
 	printf("\n");
-
-	
-
-
-					
-			
-
-
 	return 0;
 }
